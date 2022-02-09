@@ -1,0 +1,388 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+INFO 2022-02-09 16:08:56,143 autoreload:run_with_reloader:597 Watching for file changes with StatReloader
+[09/Feb/2022 16:09:01] "GET / HTTP/1.1" 200 1805
+[09/Feb/2022 16:09:03] "GET /admin/auth/group/ HTTP/1.1" 200 21755
+[09/Feb/2022 16:09:03] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:09:03] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:03] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:04] "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:06] "GET / HTTP/1.1" 200 1805
+[09/Feb/2022 16:09:25] "GET /admin/blog/category/ HTTP/1.1" 200 22023
+[09/Feb/2022 16:09:25] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:09:26] "GET /admin/blog/category/add/ HTTP/1.1" 200 15717
+[09/Feb/2022 16:09:26] "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+[09/Feb/2022 16:09:26] "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+[09/Feb/2022 16:09:26] "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+[09/Feb/2022 16:09:26] "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+[09/Feb/2022 16:09:26] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:09:26] "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 200 694
+[09/Feb/2022 16:09:26] "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+[09/Feb/2022 16:09:26] "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+[09/Feb/2022 16:09:26] "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+[09/Feb/2022 16:10:52] "POST /admin/blog/category/add/ HTTP/1.1" 302 0
+[09/Feb/2022 16:10:52] "GET /admin/blog/category/ HTTP/1.1" 200 27609
+[09/Feb/2022 16:10:52] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:10:52] "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+[09/Feb/2022 16:10:57] "GET /admin/blog/category/add/ HTTP/1.1" 200 15717
+[09/Feb/2022 16:10:57] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:01] "POST /admin/blog/category/add/ HTTP/1.1" 302 0
+[09/Feb/2022 16:11:01] "GET /admin/blog/category/ HTTP/1.1" 200 28974
+[09/Feb/2022 16:11:01] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:03] "GET /admin/blog/category/add/ HTTP/1.1" 200 15717
+[09/Feb/2022 16:11:03] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:05] "GET /admin/blog/category/ HTTP/1.1" 200 28685
+[09/Feb/2022 16:11:05] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:06] "GET /admin/blog/category/2/update/ HTTP/1.1" 200 15988
+[09/Feb/2022 16:11:06] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:12] "POST /admin/blog/category/2/update/ HTTP/1.1" 302 0
+[09/Feb/2022 16:11:12] "GET /admin/blog/category/ HTTP/1.1" 200 28910
+[09/Feb/2022 16:11:13] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:15] "GET /admin/blog/category/add/ HTTP/1.1" 200 15717
+[09/Feb/2022 16:11:15] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:18] "POST /admin/blog/category/add/ HTTP/1.1" 302 0
+[09/Feb/2022 16:11:19] "GET /admin/blog/category/ HTTP/1.1" 200 30340
+[09/Feb/2022 16:11:19] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:11:26] "GET / HTTP/1.1" 200 2031
+[09/Feb/2022 16:11:27] "GET / HTTP/1.1" 200 2031
+[09/Feb/2022 16:13:28] "GET /admin/blog/tag/ HTTP/1.1" 200 21775
+[09/Feb/2022 16:13:28] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:13:30] "GET /admin/blog/tag/add/ HTTP/1.1" 200 15447
+[09/Feb/2022 16:13:30] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:13:38] "POST /admin/blog/tag/add/ HTTP/1.1" 302 0
+[09/Feb/2022 16:13:38] "GET /admin/blog/tag/ HTTP/1.1" 200 26411
+[09/Feb/2022 16:13:38] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:13:40] "GET /admin/blog/tag/add/ HTTP/1.1" 200 15447
+[09/Feb/2022 16:13:40] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:13:48] "POST /admin/blog/tag/add/ HTTP/1.1" 302 0
+[09/Feb/2022 16:13:48] "GET /admin/blog/tag/ HTTP/1.1" 200 27543
+[09/Feb/2022 16:13:48] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:13:51] "GET / HTTP/1.1" 200 2031
+[09/Feb/2022 16:13:54] "GET / HTTP/1.1" 200 2031
+[09/Feb/2022 16:13:54] "GET / HTTP/1.1" 200 2031
+[09/Feb/2022 16:13:55] "GET / HTTP/1.1" 200 2031
+[09/Feb/2022 16:13:58] "GET /category/1/ HTTP/1.1" 200 2042
+[09/Feb/2022 16:13:59] "GET /category/2/ HTTP/1.1" 200 2041
+[09/Feb/2022 16:14:00] "GET /category/3/ HTTP/1.1" 200 2041
+[09/Feb/2022 16:14:01] "GET /category/1/ HTTP/1.1" 200 2042
+[09/Feb/2022 16:14:20] "GET /admin/blog/category/ HTTP/1.1" 200 30051
+[09/Feb/2022 16:14:21] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:14:27] "GET /admin/config/sidebar/ HTTP/1.1" 200 22164
+[09/Feb/2022 16:14:27] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:14:29] "GET /admin/config/sidebar/add/ HTTP/1.1" 200 15989
+[09/Feb/2022 16:14:29] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:14:37] "GET /admin/ HTTP/1.1" 200 12533
+[09/Feb/2022 16:14:38] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:14:38] "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+[09/Feb/2022 16:14:38] "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+[09/Feb/2022 16:14:41] "GET /admin/ HTTP/1.1" 200 12533
+[09/Feb/2022 16:14:41] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+Internal Server Error: /admin/xadmin/userwidget/add/
+Traceback (most recent call last):
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/core/handlers/base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/core/handlers/base.py", line 143, in _get_response
+    response = response.render()
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/templatetags/crispy_forms_tags.py", line 204, in render
+    c = self.get_render(context).flatten()
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/templatetags/crispy_forms_tags.py", line 121, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 139, in render_field
+    html = template.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/templatetags/crispy_forms_field.py", line 157, in render
+    return str(field)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/utils/html.py", line 388, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/forms/boundfield.py", line 33, in __str__
+    return self.as_widget()
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/forms/boundfield.py", line 93, in as_widget
+    renderer=self.form.renderer,
+TypeError: render() got an unexpected keyword argument 'renderer'
+ERROR 2022-02-09 16:14:42,584 log:log_response:228 Internal Server Error: /admin/xadmin/userwidget/add/
+Traceback (most recent call last):
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/core/handlers/base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/core/handlers/base.py", line 143, in _get_response
+    response = response.render()
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/templatetags/crispy_forms_tags.py", line 204, in render
+    c = self.get_render(context).flatten()
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/templatetags/crispy_forms_tags.py", line 121, in get_render
+    actual_form, node_context, template_pack=self.template_pack
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/helper.py", line 301, in render_layout
+    html = self.layout.render(form, self.form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 135, in render
+    return self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 367, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 66, in render_field
+    return field.render(form, form_style, context, template_pack=template_pack)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 289, in render
+    fields = self.get_rendered_fields(form, form_style, context, template_pack, **kwargs)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in get_rendered_fields
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/layout.py", line 98, in <genexpr>
+    for field in self.fields
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/utils.py", line 139, in render_field
+    html = template.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/test/utils.py", line 96, in instrumented_test_render
+    return self.nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/defaulttags.py", line 312, in render
+    return nodelist.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/crispy_forms/templatetags/crispy_forms_field.py", line 157, in render
+    return str(field)
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/utils/html.py", line 388, in <lambda>
+    klass.__str__ = lambda self: mark_safe(klass_str(self))
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/forms/boundfield.py", line 33, in __str__
+    return self.as_widget()
+  File "/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/forms/boundfield.py", line 93, in as_widget
+    renderer=self.form.renderer,
+TypeError: render() got an unexpected keyword argument 'renderer'
+[09/Feb/2022 16:14:43] "GET /admin/xadmin/userwidget/add/?user=1&page_id=home&_redirect=/admin/ HTTP/1.1" 500 699404
+[09/Feb/2022 16:14:50] "GET / HTTP/1.1" 200 2031
+/usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/forms/boundfield.py changed, reloading.
+INFO 2022-02-09 16:16:29,124 autoreload:trigger_reload:217 /usr/local/bin/python/Python-3.6.8/lib/python3.6/site-packages/django/forms/boundfield.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 09, 2022 - 16:08:56
+Django version 2.2.27, using settings 'typeidea.settings.develop'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+INFO 2022-02-09 16:16:29,948 autoreload:run_with_reloader:597 Watching for file changes with StatReloader
+[09/Feb/2022 16:16:32] "GET /admin/ HTTP/1.1" 200 12533
+[09/Feb/2022 16:16:34] "GET /admin/xadmin/userwidget/add/?user=1&page_id=home&_redirect=/admin/ HTTP/1.1" 200 16759
+[09/Feb/2022 16:16:34] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:16:42] "GET /admin/ HTTP/1.1" 200 12533
+[09/Feb/2022 16:16:42] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:16:44] "GET /admin/ HTTP/1.1" 200 12533
+[09/Feb/2022 16:16:44] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:16:45] "GET /admin/xadmin/userwidget/add/?user=1&page_id=home&_redirect=/admin/ HTTP/1.1" 200 16759
+[09/Feb/2022 16:16:45] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[09/Feb/2022 16:16:58] "GET /category/1/ HTTP/1.1" 200 2042
+[09/Feb/2022 16:17:06] "GET /category/1/ HTTP/1.1" 200 2042
+[09/Feb/2022 16:17:08] "GET /admin/xadmin/userwidget/add/?user=1&page_id=home&_redirect=/admin/ HTTP/1.1" 200 16759
+[09/Feb/2022 16:17:08] "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+Not Found: /host64.ru:443
+WARNING 2022-02-09 16:25:24,669 log:log_response:228 Not Found: /host64.ru:443
+[09/Feb/2022 16:25:24] "CONNECT host64.ru:443 HTTP/1.1" 404 1650
+[09/Feb/2022 16:25:34] code 400, message Bad request syntax ('\x04\x01\x00PWì\x10\x170\x00')
+[09/Feb/2022 16:25:34] " PWì0 " 400 -
+Not Found: /http:/host64.ru/rb/getip.php
+WARNING 2022-02-09 16:25:37,042 log:log_response:228 Not Found: /http:/host64.ru/rb/getip.php
+[09/Feb/2022 16:25:37] "GET http://host64.ru/rb/getip.php?Z74379105902Q1 HTTP/1.1" 404 1704
+[09/Feb/2022 16:25:44] code 400, message Bad request syntax ('\x05\x01\x00')
+[09/Feb/2022 16:25:44] " " 400 -
+[09/Feb/2022 16:27:23] "GET /category/1/ HTTP/1.1" 200 2042
+Not Found: /boaform/admin/formLogin
+WARNING 2022-02-09 16:36:42,326 log:log_response:228 Not Found: /boaform/admin/formLogin
+[09/Feb/2022 16:36:42] "GET /boaform/admin/formLogin?username=user&psd=user HTTP/1.0" 404 4490
+[09/Feb/2022 16:43:41] "GET / HTTP/1.1" 200 2031
