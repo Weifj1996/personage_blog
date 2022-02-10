@@ -22,7 +22,11 @@ from .autocomplete import CategoryAutocomplete, TagAutocomplete
 
 
 handler404 = Handler404.as_view()
+handler500 = Handler50x.as_error_view()
 #handler500 = Handler50x.as_view()
+
+
+
 
 router = DefaultRouter()
 #router.register(r'post', PostViewSet, base_name='api-post')

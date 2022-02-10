@@ -148,9 +148,24 @@ class Handler404(CommonViewMixin, TemplateView):
         return self.render_to_response(context, status=404)
 
 
-class Handler50x(CommonViewMixin, TemplateView):
-    template_name = '50x.html'
+#class Handler50x(CommonViewMixin, TemplateView):
 
-    def get(self, request, *args, **kwargs):
-        context = self.get_context_data(**kwargs)
-        return self.render_to_response(context, status=500)
+class Handler50x(CommonViewMixin,TemplateView):
+    
+    template_name = '50x.html'
+    @classmethod
+    def as_error_view(cls):
+        v = cls.as_view()
+
+        def view(request):
+            r = v(request)
+            r.render()
+            return r
+
+        return view
+
+    #template_name = '50x.html'
+
+    #def get(self, request):
+    #    context = self.get_context_data(**kwargs)
+    #    return self.render_to_response(context, status=500)

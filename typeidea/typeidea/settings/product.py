@@ -5,9 +5,9 @@ DEBUG = False
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'typeidea_db',
+        'NAME': 'wfj_personage_blog_db',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': '7845!QAZqwe',
         'HOST': '127.0.0.1',
         'PORT': 3306,
         'CONN_MAX_AGE': 60,
@@ -16,7 +16,7 @@ DATABASES = {
 }
 
 ADMINS = MANAGERS = (
-    ('the5fire', 'thefivefire@gmail.com'),  # 你的邮件地址
+    ('784544470', '784544470@qq.com'),  # 你的邮件地址
 )
 
 # EMAIL_HOST = ''
@@ -26,7 +26,7 @@ ADMINS = MANAGERS = (
 # DEFAULT_FROM_EMAIL = ''
 # SERVER_EMAIL = ''
 
-STATIC_ROOT = '/home/the5fire/venvs/typeidea-env/static_files/'
+STATIC_ROOT = '/usr1/packages/typeidea/typeidea/typeidea/static_files/'
 
 REDIS_URL = '127.0.0.1:6379:1'
 

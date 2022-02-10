@@ -4,7 +4,8 @@ import sys
 
 
 def main():
-    profile = os.environ.get('TYPEIDEA_PROFILE', 'develop')
+    #profile = os.environ.get('TYPEIDEA_PROFILE', 'develop')
+    profile = os.environ.get('TYPEIDEA_PROFILE', 'product')
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "typeidea.settings.%s" % profile)
 
     try:
